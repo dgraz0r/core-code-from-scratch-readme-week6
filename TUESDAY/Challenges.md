@@ -1,5 +1,7 @@
 # TUESDAY CHALLENGES
 
+
+
 ## VARIABLES
 
 let firstname = "Lata"
@@ -12,3 +14,7 @@ let firstname = "Lata"
 
 let flower = "rose"
 let tree = "maple"
+
+# REASSIGNMENT
+
+// "Toe"
