@@ -32,3 +32,14 @@ let salutation = greet();
 ## WHAT IS X? (FUNCTION VERSION)
 
 // "How do you do?"
+
+## PARAMETERS
+
+function echo(input) {
+return input;
+}
+
+let result1 = echo("Greta");
+
+let result2 = echo("CO2");
+
