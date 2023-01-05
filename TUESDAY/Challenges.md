@@ -8,3 +8,7 @@ let firstname = "Lata"
 
 // "Geeta"
 
+## SEVERAL VARIABLES
+
+let flower = "rose"
+let tree = "maple"
