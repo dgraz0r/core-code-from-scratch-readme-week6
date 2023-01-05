@@ -28,3 +28,7 @@ return "Haydo!";
 }
 
 let salutation = greet();
+
+## WHAT IS X? (FUNCTION VERSION)
+
+// "How do you do?"
