@@ -15,6 +15,10 @@ let firstname = "Lata"
 let flower = "rose"
 let tree = "maple"
 
-# REASSIGNMENT
+## REASSIGNMENT
 
 // "Toe"
+
+## ASSIGN VARIABLES
+
+// "Hardy"
