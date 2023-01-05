@@ -20,3 +20,11 @@ function b() {
 return "Hello b!";
 }
 let resultb = b();
+
+## FUNCTION CALLS
+
+function greet() { 
+return "Haydo!";
+}
+
+let salutation = greet();
