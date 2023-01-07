@@ -32,3 +32,16 @@ return first.charAt(0) + last.charAt(0);
 
 let res = shortcut("Amnesty", "International")
 
+
+## STRING: IndexOf()
+
+function indexOfIgnoreCase(s1, s2) {
+let s1L = s1.toLowerCase();
+let s2L = s2.toLowerCase();
+return s1L.indexOf(s2L)
+}
+
+let n1 = indexOfIgnoreCase("bit", "it")
+
+
+
