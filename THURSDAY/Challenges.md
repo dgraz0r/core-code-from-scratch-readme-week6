@@ -22,3 +22,13 @@ return test.toLowerCase() + "-" + test.toUpperCase()
 }
 
 let res = toCase("Gato")
+
+
+## STRING: charAt()
+
+function shortcut(first, last) {
+return first.charAt(0) + last.charAt(0);
+}
+
+let res = shortcut("Amnesty", "International")
+
