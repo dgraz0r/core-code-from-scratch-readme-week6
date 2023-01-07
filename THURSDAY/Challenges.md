@@ -13,3 +13,12 @@ return test.length
 }
 
 let res = length("Gato")
+
+
+## STRING: ToUpperCase()
+
+function toCase(test) {
+return test.toLowerCase() + "-" + test.toUpperCase()
+}
+
+let res = toCase("Gato")
